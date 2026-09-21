@@ -5,7 +5,8 @@ from multiply_module import multuply
 
 
 subtraction = subtract(a,b)
-multiplication = multuply(a,b)
+print("Substraction successful...")
 print("a - b  : " , subtraction)
+multiplication = multuply(a,b)
 print("a * b  : " , multiplication)
 
