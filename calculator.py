@@ -3,7 +3,6 @@ from subtract_module import subtract
 from multiply_module import multuply
 
 
-
 subtraction = subtract(a,b)
 print("Substraction successful...")
 print("a - b  : " , subtraction)
